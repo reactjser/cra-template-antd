@@ -1,6 +1,6 @@
 {
   "name": "cra-template-antd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A cra template for antd",
   "main": "template.json",
   "repository": {
