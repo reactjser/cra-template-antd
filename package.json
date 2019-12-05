@@ -1,0 +1,23 @@
+{
+  "name": "cra-template-antd",
+  "version": "0.0.0",
+  "description": "A cra template for antd",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactjser/cra-template-antd.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "reactjser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reactjser/cra-template-antd/issues"
+  },
+  "homepage": "https://github.com/reactjser/cra-template-antd#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
